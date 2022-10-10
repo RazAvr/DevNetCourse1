@@ -1,1 +1,1 @@
-# DevNetCourse1
+# Python 100Days course
